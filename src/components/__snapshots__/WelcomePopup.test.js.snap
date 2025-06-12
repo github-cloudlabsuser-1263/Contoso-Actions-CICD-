@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`WelcomePopup Component matches snapshot 1`] = `
+<div>
+  <div
+    class="modal"
+    role="dialog"
+  >
+    <div
+      class="modal-content"
+    >
+      <div
+        class="container text-center devsecops"
+      >
+        <h1>
+          WELCOME
+        </h1>
+        <h5>
+          TO
+        </h5>
+        <h3
+          class="mb-5"
+        >
+          The DevSecOps Day 2 Hackathon!
+        </h3>
+      </div>
+      <button
+        class="btn close"
+      >
+        Get Started
+      </button>
+    </div>
+  </div>
+</div>
+`;
